@@ -1,5 +1,3 @@
-<img width="2127" height="88" alt="image" src="https://github.com/user-attachments/assets/6dd55dc8-658b-4752-9bda-604a6466560e" />
-
 ### Project Overview
 - The data set is on Pizza sales analysis. It is an Excel file which consists of 17 columns and 48621 rows . This analysis will help to uncover actionable insights for menu offerings, improve inventory management, and enhance marketing strategies for pizza .
 
@@ -31,6 +29,31 @@
 - Customer Preferences – Preference for vegetarian or non-vegetarian pizza,
 - Order Patterns – Identify how often do customer order more than one pizza at a time
 - Pricing and time-based insights -  To identify price range of the pizza sold and the periods with unusually high or low sales
+
+- ### Tools used
+
+- Excel (Pivot Tables, Power Query Editor)
+- Data Visualization (Pivot Charts Bar/Pie Charts).
+- Data Source – Mr Mandela Isoughie ( Instructor)
+
+### Explorative data  analysis
+
+-###  Peak order times for Pizza
+- Power query editor was used to extract the order hour.
+- On Pivot table, order hour was dragged to rows , order Id to values
+- Summarised values by count
+- Pivot chart – Bar chart
+
+- ###   Days with the highest order.
+- Power query editor was used to extract the order day
+- On Pivot table, order day was dragged to rows , order Id to values
+- Summarised values by count
+- Pivot chart – Clustered column chart
+
+
+
+
+
 
 
 

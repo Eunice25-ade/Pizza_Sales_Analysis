@@ -122,6 +122,9 @@
 - Supreme follows closely with $208,197 (25.5%), showing strong demand for premium offerings.
 - Chicken ($195,919.50,  24%) and Veggie ($193,690.45, 23.7%) contribute nearly equally, indicating balanced performance between meat and vegetarian options.
 
+![Uploading Pizza sales analysis dashboard.png…]()
+
+
 ####  Price Range Analysis:
 - Average Unit Price: 16.49
 - Maximum Unit Price: 35.95 (118% higher than average)

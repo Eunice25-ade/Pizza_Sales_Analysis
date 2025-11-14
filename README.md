@@ -1,6 +1,6 @@
 # Pizza Sales Analysis
 
-- This analysis on pizza sales to uncover the actionable insights and improve inventory management to enhance marketting strategies for pizza.
+- This analysis is on pizza sales to uncover the actionable insights and improve inventory management to enhance marketting strategies for pizza.
 
 ## Table of content
 - [Project_Overview](#project-overview)

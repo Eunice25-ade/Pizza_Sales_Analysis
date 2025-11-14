@@ -1,6 +1,7 @@
 # Pizza Sales Analysis
+
 - A data set on the arrest of suspects in different locations and at different times of the day.
-- 
+
 ## Table of content
 - [Project_Overview](#project-overview)
 - [Objectives](#objectives)
@@ -9,6 +10,7 @@
 - [Findings](#findings)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
+- [Reference](#reference)
 ### Project Overview
 - The data set is on Pizza sales analysis. It is an Excel file which consists of 17 columns and 48621 rows . This analysis will help to uncover actionable insights for menu offerings, improve inventory management, and enhance marketing strategies for pizza .
 
